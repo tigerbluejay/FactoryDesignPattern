@@ -1,0 +1,11 @@
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.Form1.resources
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.Properties.Resources.resources
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.GenerateResource.cache
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+C:\Users\josem\source\reposGoF\FactoryDesignPatternSolution\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
